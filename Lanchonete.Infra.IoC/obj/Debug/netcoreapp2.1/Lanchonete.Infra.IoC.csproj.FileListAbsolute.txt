@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\obj\Debug\netcoreapp2.1\Lanchonete.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\obj\Debug\netcoreapp2.1\Lanchonete.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\obj\Debug\netcoreapp2.1\Lanchonete.Infra.IoC.AssemblyInfo.cs
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\obj\Debug\netcoreapp2.1\Lanchonete.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\bin\Debug\netcoreapp2.1\Lanchonete.Infra.IoC.deps.json
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\bin\Debug\netcoreapp2.1\Lanchonete.Infra.IoC.dll
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\bin\Debug\netcoreapp2.1\Lanchonete.Infra.IoC.pdb
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\bin\Debug\netcoreapp2.1\Lanchonete.App.dll
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\bin\Debug\netcoreapp2.1\Lanchonete.dll
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\bin\Debug\netcoreapp2.1\Lanchonete.Infra.Data.dll
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\bin\Debug\netcoreapp2.1\Lanchonete.App.pdb
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\bin\Debug\netcoreapp2.1\Lanchonete.Infra.Data.pdb
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\bin\Debug\netcoreapp2.1\Lanchonete.pdb
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\obj\Debug\netcoreapp2.1\Lanchonete.Infra.IoC.csproj.CopyComplete
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\obj\Debug\netcoreapp2.1\Lanchonete.Infra.IoC.dll
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.Infra.IoC\obj\Debug\netcoreapp2.1\Lanchonete.Infra.IoC.pdb

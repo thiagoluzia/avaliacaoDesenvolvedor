@@ -1,0 +1,12 @@
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.App\obj\Debug\netcoreapp2.1\Lanchonete.App.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.App\obj\Debug\netcoreapp2.1\Lanchonete.App.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.App\obj\Debug\netcoreapp2.1\Lanchonete.App.AssemblyInfo.cs
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.App\obj\Debug\netcoreapp2.1\Lanchonete.App.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.App\bin\Debug\netcoreapp2.1\Lanchonete.App.deps.json
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.App\bin\Debug\netcoreapp2.1\Lanchonete.App.dll
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.App\bin\Debug\netcoreapp2.1\Lanchonete.App.pdb
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.App\bin\Debug\netcoreapp2.1\Lanchonete.dll
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.App\bin\Debug\netcoreapp2.1\Lanchonete.pdb
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.App\obj\Debug\netcoreapp2.1\Lanchonete.App.csproj.CopyComplete
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.App\obj\Debug\netcoreapp2.1\Lanchonete.App.dll
+C:\Users\thiag\Desktop\API\BackEnd\Lanchonete.App\obj\Debug\netcoreapp2.1\Lanchonete.App.pdb

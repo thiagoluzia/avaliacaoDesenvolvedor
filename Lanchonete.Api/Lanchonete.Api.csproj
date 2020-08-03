@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <UserSecretsId>6686e578-bb89-4e37-a582-92c7d2ad54f5</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lanchonete.App\Lanchonete.App.csproj" />
+    <ProjectReference Include="..\Lanchonete.Infra.IoC\Lanchonete.Infra.IoC.csproj" />
+    <ProjectReference Include="..\Lanchonete\Lanchonete.csproj" />
+  </ItemGroup>
+
+</Project>
